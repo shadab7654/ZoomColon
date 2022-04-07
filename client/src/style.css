@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(rgba(184, 50, 50, 0.3),rgba(187, 69, 69, 0.3));
+    background-image: url('Desktop.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
