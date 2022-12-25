@@ -1,3 +1,4 @@
 # Video-Call
-/home/alam/Desktop/ReactProject/Zoom/ZoomColon/Zoom1.png
-/home/alam/Desktop/ReactProject/Zoom/ZoomColon/zoom2.png
+![image](https://user-images.githubusercontent.com/86181725/209463900-70c00e83-7aca-4eb9-b9df-ac2c2befb462.png)
+![image](https://user-images.githubusercontent.com/86181725/209463908-03a1662d-0577-4650-a4f5-4a70935ecf91.png)
+
